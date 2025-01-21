@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias del Campeonato</title>
+    <link>https://tuweb.com</link>
+    <description>Últimas noticias y actualizaciones sobre el campeonato</description>
+    <language>es-es</language>
+    <pubDate>Wed, 28 Nov 2024 10:00:00 GMT</pubDate>
+    
+    <!-- Noticias del Campeonato -->
+    <item>
+      <title>Resultado del Partido 1</title>
+      <link>https://tuweb.com/noticias/resultado-partido-1</link>
+      <description>Resumen del primer partido del campeonato, con los goles y momentos clave.</description>
+      <pubDate>Wed, 28 Nov 2024 08:00:00 GMT</pubDate>
+      <guid>https://tuweb.com/noticias/resultado-partido-1</guid>
+    </item>
+    
+    <item>
+      <title>Próximos Partidos del Campeonato</title>
+      <link>https://tuweb.com/noticias/proximos-partidos</link>
+      <description>Fechas y horarios de los próximos partidos del campeonato.</description>
+      <pubDate>Wed, 28 Nov 2024 09:00:00 GMT</pubDate>
+      <guid>https://tuweb.com/noticias/proximos-partidos</guid>
+    </item>
+    
+    <item>
+      <title>Cambios en el Reglamento del Campeonato</title>
+      <link>https://tuweb.com/noticias/cambios-reglamento</link>
+      <description>Actualizaciones importantes en las reglas del campeonato que entrarán en vigencia.</description>
+      <pubDate>Tue, 27 Nov 2024 18:00:00 GMT</pubDate>
+      <guid>https://tuweb.com/noticias/cambios-reglamento</guid>
+    </item>
+    
+  </channel>
+</rss>
