@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GameStop Bideojoko Txapelketa Berriak</title>
+    <link>https://www.gamestop.com/txapelketa</link>
+    <description>GameStop-en antolatutako bideojoko txapelketa, azken berriak eta eguneratzeak</description>
+    <language>eu</language>
+    <lastBuildDate>Mon, 29 Jan 2025 12:00:00 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jan 2025 12:00:00 +0000</pubDate>
+    
+    <!-- Artikulu 1 -->
+    <item>
+      <title>Txapelketa irabazi duen jokalariaren aurkezpena</title>
+      <link>https://www.gamestop.com/noticias/jokalari-irabazlea</link>
+      <description>Juan Jokalariak irabazi du GameStop-en antolatutako bideojoko txapelketa. Oso lehiaketa gogorra izan da.</description>
+      <pubDate>Mon, 29 Jan 2025 12:00:00 +0000</pubDate>
+      <guid>https://www.gamestop.com/noticias/jokalari-irabazlea</guid>
+      <a href="https://blogtrottr.com">Hona klik eginez harpidetu zaitez posta elektronikoz.</a>
+
+    </item>
+
+    <!-- Artikulu 2 -->
+    <item>
+      <title>Bigarren postuan amaitu duen jokalaria</title>
+      <link>https://www.gamestop.com/noticias/segundo-postua</link>
+      <description>Maria Jokalariak bigarren postua lortu du GameStop-en txapelketan. Jarraian, bere ibilbidea kontatzen du.</description>
+      <pubDate>Sun, 28 Jan 2025 18:00:00 +0000</pubDate>
+      <guid>https://www.gamestop.com/noticias/segundo-postua</guid>
+    </item>
+
+    <!-- Artikulu 3 -->
+    <item>
+      <title>Txapelketaren amaierako egutegia aldatu da</title>
+      <link>https://www.gamestop.com/noticias/egutegia-aldatuta</link>
+      <description>GameStop-en bideojoko txapelketaren amaierako egutegia aldatu egin da. Partidu gehiago eta sorpresa ugari izango dira!</description>
+      <pubDate>Sat, 27 Jan 2025 10:00:00 +0000</pubDate>
+      <guid>https://www.gamestop.com/noticias/egutegia-aldatuta</guid>
+    </item>
+
+    <!-- Artikulu 4 -->
+    <item>
+      <title>Txapelketa jokatuko den lekua aldatu da</title>
+      <link>https://www.gamestop.com/noticias/lekua-aldatuta</link>
+      <description>GameStop-en txapelketa berri bat hastear da, baina txapelketaren lekua aldatu egin da. Kontsulta ezazu hemen non izango den.</description>
+      <pubDate>Fri, 26 Jan 2025 16:00:00 +0000</pubDate>
+      <guid>https://www.gamestop.com/noticias/lekua-aldatuta</guid>
+    </item>
+
+    <!-- Artikulu 5 -->
+    <item>
+      <title>Jokalari berri batzuk sartu dira txapelketan</title>
+      <link>https://www.gamestop.com/noticias/jokalari-berriak</link>
+      <description>GameStop-en txapelketa berria hasiera emateko prest dago, eta jokalari berri batzuk aurkeztu dituzte. Jokalariak ezagutu itzazu!</description>
+      <pubDate>Thu, 25 Jan 2025 14:30:00 +0000</pubDate>
+      <guid>https://www.gamestop.com/noticias/jokalari-berriak</guid>
+    </item>
+
+  </channel>
+</rss>
