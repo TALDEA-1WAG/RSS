@@ -8,7 +8,16 @@
     <language>eu</language>
     <lastBuildDate>Mon, 29 Jan 2025 12:00:00 +0000</lastBuildDate>
     <pubDate>Mon, 29 Jan 2025 12:00:00 +0000</pubDate>
+
     
+    <item>
+      <title>Bigarren postuan amaitu duen jokalaria</title>
+      <link>https://www.gamestop.com/noticias/segundo-postua</link>
+      <description>Maria Jokalariak bigarren postua lortu du GameStop-en txapelketan. Jarraian, bere ibilbidea kontatzen du.</description>
+      <pubDate>Sun, 28 Jan 2025 18:00:00 +0000</pubDate>
+      <guid>https://www.gamestop.com/noticias/segundo-postua</guid>
+    </item>
+
     <!-- Artikulu 1 -->
     <item>
       <title>Txapelketa irabazi duen jokalariaren aurkezpena</title>
@@ -19,23 +28,9 @@
      <description>Mesedez, <a href="https://www.blogtrottr.com/subscribe">jarri zure posta elektronikoa</a> eta harpidetu zaitez Game Stop-eko bideojoko txapelketaren RSS feed-ari. Berriak eta eguneratzeak zuzenean zure postontzian!</description>
     </item>
 
-    <!-- Artikulu 2 -->
-    <item>
-      <title>Bigarren postuan amaitu duen jokalaria</title>
-      <link>https://www.gamestop.com/noticias/segundo-postua</link>
-      <description>Maria Jokalariak bigarren postua lortu du GameStop-en txapelketan. Jarraian, bere ibilbidea kontatzen du.</description>
-      <pubDate>Sun, 28 Jan 2025 18:00:00 +0000</pubDate>
-      <guid>https://www.gamestop.com/noticias/segundo-postua</guid>
-    </item>
 
-    <!-- Artikulu 3 -->
-    <item>
-      <title>Txapelketaren amaierako egutegia aldatu da</title>
-      <link>https://www.gamestop.com/noticias/egutegia-aldatuta</link>
-      <description>GameStop-en bideojoko txapelketaren amaierako egutegia aldatu egin da. Partidu gehiago eta sorpresa ugari izango dira!</description>
-      <pubDate>Sat, 27 Jan 2025 10:00:00 +0000</pubDate>
-      <guid>https://www.gamestop.com/noticias/egutegia-aldatuta</guid>
-    </item>
+    
+ 
 
   </channel>
 </rss>
