@@ -5,7 +5,7 @@
     <title>GameStop Bideojoko Txapelketa Berriak</title>
     <link>https://www.gamestop.com/txapelketa</link>
     <description>GameStop-en antolatutako bideojoko txapelketa, azken berriak eta eguneratzeak</description>
-    <language>eua</language>
+    <language>eu</language>
     <lastBuildDate>Mon, 29 Jan 2025 12:00:00 +0000</lastBuildDate>
     <pubDate>Mon, 29 Jan 2025 12:00:00 +0000</pubDate>
     
@@ -16,8 +16,7 @@
       <description>Juan Jokalariak irabazi du GameStop-en antolatutako bideojoko txapelketa. Oso lehiaketa gogorra izan da.</description>
       <pubDate>Mon, 29 Jan 2025 12:00:00 +0000</pubDate>
       <guid>https://www.gamestop.com/noticias/jokalari-irabazlea</guid>
-      <a href="https://blogtrottr.com">Hona klik eginez harpidetu zaitez posta elektronikoz.</a>
-
+     <link>Mesedez, <a href="https://www.blogtrottr.com/subscribe?url=https://www.tusitio.com/rssfeed">jarri zure posta elektronikoa</a> eta harpidetu zaitez Game Stop-eko bideojoko txapelketaren RSS feed-ari. Berriak eta eguneratzeak zuzenean zure postontzian!</link>
     </item>
 
     <!-- Artikulu 2 -->
