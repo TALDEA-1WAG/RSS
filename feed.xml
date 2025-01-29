@@ -37,23 +37,5 @@
       <guid>https://www.gamestop.com/noticias/egutegia-aldatuta</guid>
     </item>
 
-    <!-- Artikulu 4 -->
-    <item>
-      <title>Txapelketa jokatuko den lekua aldatu da</title>
-      <link>https://www.gamestop.com/noticias/lekua-aldatuta</link>
-      <description>GameStop-en txapelketa berri bat hastear da, baina txapelketaren lekua aldatu egin da. Kontsulta ezazu hemen non izango den.</description>
-      <pubDate>Fri, 26 Jan 2025 16:00:00 +0000</pubDate>
-      <guid>https://www.gamestop.com/noticias/lekua-aldatuta</guid>
-    </item>
-
-    <!-- Artikulu 5 -->
-    <item>
-      <title>Jokalari berri batzuk sartu dira txapelketan</title>
-      <link>https://www.gamestop.com/noticias/jokalari-berriak</link>
-      <description>GameStop-en txapelketa berria hasiera emateko prest dago, eta jokalari berri batzuk aurkeztu dituzte. Jokalariak ezagutu itzazu!</description>
-      <pubDate>Thu, 25 Jan 2025 14:30:00 +0000</pubDate>
-      <guid>https://www.gamestop.com/noticias/jokalari-berriak</guid>
-    </item>
-
   </channel>
 </rss>
