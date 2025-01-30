@@ -3,7 +3,7 @@
   
   <channel>
     <title>GameStop Bideojoko Txapelketa Berriak</title>
-    <link>https://www.gamestop.com/txapelketa</link>
+    <link>https://www.gamestop.com</link>
     <description>GameStop-en antolatutako bideojoko txapelketa, azken berriak eta eguneratzeak</description>
     <language>eu</language>
     <lastBuildDate>Mon, 29 Jan 2025 12:00:00 +0000</lastBuildDate>
@@ -29,7 +29,14 @@
     </item>
 
 
-    
+    <!--  Artikulu 4  -->
+    <item>
+    <title>Txapelketa jokatuko den lekua aldatu da</title>
+    <link>https://www.gamestop.com/noticias/lekua-aldatuta</link>
+    <description>GameStop-en txapelketa berri bat hastear da, baina txapelketaren lekua aldatu egin da. Kontsulta ezazu hemen non izango den.</description>
+    <pubDate>Fri, 26 Jan 2025 16:00:00 +0000</pubDate>
+    <guid>https://www.gamestop.com/noticias/lekua-aldatuta</guid>
+    </item>
  
 
   </channel>
